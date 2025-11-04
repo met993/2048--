@@ -115,6 +115,11 @@ Still updating! Issues and Pull Requests are super welcome—let’s make this g
 Thanks to the following sponsors for supporting this project:
 - [/](/) providing the server
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=sz30/2048--&type=date&legend=top-left)](https://www.star-history.com/#sz30/2048--&type=date&legend=top-left)
+
 ---
 _Last updated: Oct. 2025_
+
 
